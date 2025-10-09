@@ -1,8 +1,8 @@
 # EXPERIMENT-03-DEVELOPING-COUNTER-LADDER-LOGIC-FOR-PLC-
-## NAME:
-## REGISTER NUMBER:
-## DEPARTMENT:
-## YEAR:
+## NAME: SARANYA S
+## REGISTER NUMBER: 212223110044
+## DEPARTMENT: B.E CSE-IOT
+## YEAR: III-YEAR
 
 ### Aim:
 To understand and implement various counter operations in Programmable Logic Controller (PLC) ladder logic.
@@ -67,7 +67,15 @@ Down Counter (CTD): The output should activate when the count reaches zero.
 Up/Down Counter (CTUD): The output should activate when the count reaches the preset value or zero, depending on the inputs.
 
 ### Simulation Screenshots:
-(Add screenshots of the ladder logic and counter operations in the simulation software.)
+<img width="1919" height="1024" alt="Screenshot 2025-10-09 180859" src="https://github.com/user-attachments/assets/00f2c836-5b68-4b28-8b15-41915a0a110d" />
+<img width="1919" height="1027" alt="Screenshot 2025-10-09 180920" src="https://github.com/user-attachments/assets/ca7b6916-e75c-4dd6-b967-c0b15f2ba66b" />
+<img width="1919" height="1017" alt="Screenshot 2025-10-09 181132" src="https://github.com/user-attachments/assets/b233e776-1698-44a5-8497-111788972995" />
+<img width="1919" height="1027" alt="Screenshot 2025-10-09 181159" src="https://github.com/user-attachments/assets/6affbe96-c77c-45a6-bb31-3f5f39a3df99" />
+<img width="1917" height="1025" alt="Screenshot 2025-09-25 093220" src="https://github.com/user-attachments/assets/b8d048d2-2a7a-4394-8e8b-6e3357866ab6" />
+<img width="1919" height="1029" alt="Screenshot 2025-10-09 181309" src="https://github.com/user-attachments/assets/09cfce8c-b895-436b-8cf7-b31e091c7837" />
+<img width="1919" height="1020" alt="Screenshot 2025-10-09 181331" src="https://github.com/user-attachments/assets/a0d24b5b-8c1f-48fb-852c-ca4ccd07a819" />
+<img width="1917" height="1016" alt="Screenshot 2025-09-25 093441" src="https://github.com/user-attachments/assets/0a888fef-e842-4614-afaa-536cce284d6f" />
+
 
 ### Results:
 The ladder logic programs for Up Counter (CTU), Down Counter (CTD), and Up/Down Counter (CTUD) were successfully implemented and tested. The outputs behaved as expected, indicating correct counting operations. The experiment demonstrated how counters are essential in automation for counting events and managing process sequences.
